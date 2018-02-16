@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#404040</color>
+    <color name="colorPrimaryDark">#070707</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#747e84</color>
+    <color name="aries_color">#FF6700</color>
+    <color name="taurus_color">#FF6700</color>
+    <color name="gemini_color">#FFCE00</color>
+    <color name="cancer_color">#009B5C</color>
+    <color name="leo_color">#003CFF</color>
+    <color name="virgo_color">#7800CE</color>
+    <color name="libra_color">#FF0000</color>
+    <color name="scorpio_color">#FF6700</color>
+    <color name="sagittarius_color">#FFCE00</color>
+    <color name="capricorn_color">#009B5C</color>
+    <color name="acquarius_color">#003CFF</color>
+    <color name="pisces_color">#7800CE</color>
+
+</resources>
